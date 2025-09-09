@@ -40,59 +40,37 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 - Primary / Brand → #FF6B35 (warm orange)  
 
-&nbsp; - Accent → #2D9CDB (blue)  
+- Accent → #2D9CDB (blue)  
 
-&nbsp; - Background → #D4BCBC  
+- Background → #D4BCBC  
 
-&nbsp; - Text → Inter / Poppins / Crimson Text  
-
-
-
-\###Typography:  
-
-&nbsp; - Headlines → 20–24px  
-
-&nbsp; - Body → 14px  
-
-&nbsp; - Caption → 12px  
+- Text → Inter / Poppins / Crimson Text  
 
 
 
-\###Icons: Material Icons (Rounded)  
+### Typography:  
+
+- Headlines → 20–24px  
+
+- Body → 14px  
+
+- Caption → 12px  
 
 
 
-\###Card Sizes:  
-
-&nbsp; - Categories → 110×70 px  
-
-&nbsp; - Dish Cards → 172×210 px  
-
-&nbsp; - Kitchen Cards → 315×111 px  
-
-&nbsp; - Subscription Plans → 296×124 px  
+### Icons: Material Icons (Rounded)  
 
 
 
----
+### Card Sizes:  
 
+- Categories → 110×70 px  
 
+- Dish Cards → 172×210 px  
 
-\## 📱 Screens Included
+- Kitchen Cards → 315×111 px  
 
-
-
-1\. Splash Screen  
-
-2\. Login Page  
-
-3\. Sign Up Page (with Terms \& Conditions)  
-
-4\. Home Page  
-
-5\. Kitchen Browse Page  
-
-6\. Subscription Detail Page  
+- Subscription Plans → 296×124 px  
 
 
 
@@ -100,19 +78,21 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 
 
-\## 🌐 How It Works
+## 📱 Screens Included
 
 
 
-1\. User opens the app → splash screen shows the \*\*logo\*\*.  
+1. Splash Screen  
 
-2\. Login/Sign Up → enter details \& agree to \*\*Terms \& Conditions\*\*.  
+2. Login Page  
 
-3\. Home → browse food categories \& dishes.  
+3. Sign Up Page (with Terms \& Conditions)  
 
-4\. Kitchen Browse → search, filter \& explore kitchens.  
+4. Home Page  
 
-5\. Subscription → view meal plans, select one, and \*\*Subscribe/Order Once\*\*.  
+5. Kitchen Browse Page  
+
+6. Subscription Detail Page  
 
 
 
@@ -120,19 +100,39 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 
 
-\## 📂 Project Files
+## 🌐 How It Works
 
 
 
-\- \*\*Figma Project Link:\*\* \[View Figma Project](https://www.figma.com/design/4VenXD6XzAFcV2vtOSKf8V/TiffinBuddy?node-id=3-58\&t=BeMvNFHZCCy7EzZ7-1)  
+1. User opens the app → splash screen shows the **logo**.  
 
-\- \*\*Screenshots (PNG):\*\* Added in this repo  
+2. Login/Sign Up → enter details & agree to **Terms & Conditions**.  
 
-\- \*\*Design Summary (PDF):\*\* \[View summary]
+3. Home → browse food categories & dishes.  
+
+4. Kitchen Browse → search, filter & explore kitchens.  
+
+5. Subscription → view meal plans, select one, and **Subscribe/Order Once**.  
+
+
+
+---
+
+
+
+## 📂 Project Files
+
+
+
+- **Figma Project Link:** \[View Figma Project](https://www.figma.com/design/4VenXD6XzAFcV2vtOSKf8V/TiffinBuddy?node-id=3-58\&t=BeMvNFHZCCy7EzZ7-1)  
+
+- **Screenshots (PNG):** Added in this repo  
+
+- **Design Summary (PDF):** [View summary]
 
 (https://github.com/Rohini363/TiffinBuddy-food-app/blob/main/ProjectSummary.pdf)
 
-\- \*\*.fig File (Editable Figma Export):\*\* \[View editable fig file](https://github.com/Rohini363/TiffinBuddy-food-app/blob/main/TiffinBuddy.fig)  
+- **.fig File (Editable Figma Export):** [View editable fig file](https://github.com/Rohini363/TiffinBuddy-food-app/blob/main/TiffinBuddy.fig)  
 
 
 
@@ -140,33 +140,15 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 
 
-\## ✅ How to Open the Project
+## ✅ How to Open the Project
 
 
 
-1\. Download the `.fig` file.  
+1. Download the `.fig` file.  
 
-2\. Open \*\*Figma\*\* → `File → Import` → select the `.fig` file.  
+2. Open **Figma** → `File → Import` → select the `.fig` file.  
 
-3\. Explore all pages: \*\*Design System, Wireframes, High-Fidelity, Prototype\*\*.  
-
-
-
----
-
-
-
-\## 💡 Future Enhancements
-
-
-
-\- Add \*\*dark mode variant\*\*  
-
-\- Add \*\*loading \& error states\*\*  
-
-\- Create \*\*micro-interactions\*\* (chip toggle, plan selection)  
-
-\- Build \*\*prototype animations\*\* (slide transitions)  
+3. Explore all pages: **Design System, Wireframes, High-Fidelity, Prototype**.  
 
 
 
@@ -174,15 +156,17 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 
 
-\## 🙌 Credits
+## 💡 Future Enhancements
 
 
 
-\- Fonts → Inter, Poppins, Crimson Text  
+- Add **dark mode variant**  
 
-\- Icons → Material Icons (Rounded)  
+- Add **loading & error states**  
 
-\- Images → Unsplash (placeholders for food photos)  
+- Create **micro-interactions** (chip toggle, plan selection)  
+
+- Build **prototype animations** (slide transitions)  
 
 
 
@@ -190,19 +174,35 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 
 
-\## 👩‍💻 Author
+## 🙌 Credits
 
 
 
-Developed by \*\*Rohini Pandurang Bagal\*\*  
+- Fonts → Inter, Poppins, Crimson Text  
 
-\- 🌐 GitHub: \[Check Git Repo](https://github.com/Rohini363/TiffinBuddy-food-app)  
+- Icons → Material Icons (Rounded)  
 
-\- 📧 Email: bagalrohini363@gmail.com  
+- Images → Unsplash (placeholders for food photos)  
 
 
 
-\*\*✨ Thank you for checking out TiffinBuddy UI/UX Project!\*\*
+---
+
+
+
+## 👩‍💻 Author
+
+
+
+Developed by **Rohini Pandurang Bagal**  
+
+- 🌐 GitHub: [Check Git Repo](https://github.com/Rohini363/TiffinBuddy-food-app)  
+
+- 📧 Email: bagalrohini363@gmail.com  
+
+
+
+**✨ Thank you for checking out TiffinBuddy UI/UX Project!**
 
 
 
