@@ -1,8 +1,8 @@
-\# 🍴 TiffinBuddy (UI/UX Design)
+# 🍴 TiffinBuddy (UI/UX Design)
 
 
 
-A modern \*\*food subscription app concept\*\* designed in \*\*Figma\*\*, showcasing sleek UI design, reusable components, and smooth user flows.  
+A modern **food subscription app concept ** designed in **Figma**, showcasing sleek UI design, reusable components, and smooth user flows.  
 
 The project demonstrates clear navigation from onboarding to browsing kitchens and subscribing to meal plans.
 
@@ -12,13 +12,13 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
 
 
-\- \*\*Splash Screen\*\* → App logo introduction  
+- **Splash Screen** → App logo introduction  
 
-\- \*\*Login \& Sign Up\*\* → Minimal forms with email \& password fields, welcoming message, and \*\*Terms \& Conditions\*\* checkbox  
+- **Login & Sign Up** → Minimal forms with email & password fields, welcoming message, and **Terms & Conditions** checkbox  
 
 \- \*\*Home Screen\*\* → Food categories (Burgers, Pizza, Noodles) and dish cards with \*\*image, name, price \& rating\*\*  
 
