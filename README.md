@@ -58,7 +58,9 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 
 
-### Icons: Material Icons (Rounded)  
+### Icons: 
+
+- Material Icons (Rounded)  
 
 
 
