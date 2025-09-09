@@ -36,7 +36,7 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 
 
-###Colors:  
+### Colors:  
 
 - Primary / Brand → #FF6B35 (warm orange)  
 
