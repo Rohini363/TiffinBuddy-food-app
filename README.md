@@ -124,7 +124,7 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 
 
-- **Figma Project Link:** \[View Figma Project](https://www.figma.com/design/4VenXD6XzAFcV2vtOSKf8V/TiffinBuddy?node-id=3-58\&t=BeMvNFHZCCy7EzZ7-1)  
+- **Figma Project Link:** [View Figma Project](https://www.figma.com/design/4VenXD6XzAFcV2vtOSKf8V/TiffinBuddy?node-id=3-58\&t=BeMvNFHZCCy7EzZ7-1)  
 
 - **Screenshots (PNG):** Added in this repo  
 
