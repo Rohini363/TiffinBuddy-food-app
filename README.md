@@ -1,232 +1,208 @@
-🍴 TiffinBuddy (UI/UX Design)
+\# 🍴 TiffinBuddy (UI/UX Design)
 
-📌 Overview
 
 
+A modern \*\*food subscription app concept\*\* designed in \*\*Figma\*\*, showcasing sleek UI design, reusable components, and smooth user flows.  
 
-TiffinBuddy is a food subscription app that connects users with home kitchens.
+The project demonstrates clear navigation from onboarding to browsing kitchens and subscribing to meal plans.
 
-The project demonstrates user-friendly mobile UI design with clear flows from onboarding to browsing kitchens and subscribing to daily/weekly/monthly plans.
 
-✨ Features
 
+---
 
 
-Splash Screen → App logo introduction
 
+\## 🚀 Features
 
 
-Login \& Sign Up → Minimal forms with Email and password fields, welcoming message and Terms \& Conditions checkbox
 
+\- \*\*Splash Screen\*\* → App logo introduction  
 
+\- \*\*Login \& Sign Up\*\* → Minimal forms with email \& password fields, welcoming message, and \*\*Terms \& Conditions\*\* checkbox  
 
-Home Screen → Food categories (Burgers, Pizza, Noodles) and dish cards with image, name, price \& rating
+\- \*\*Home Screen\*\* → Food categories (Burgers, Pizza, Noodles) and dish cards with \*\*image, name, price \& rating\*\*  
 
+\- \*\*Kitchen Browse Screen\*\* → Search bar, filters (Veg/Non-Veg/Both), sort by options, and kitchen cards with descriptions + \*\*“View Plans” CTA\*\*  
 
+\- \*\*Subscription Screen\*\* → Kitchen details, meal plan cards (Daily, Weekly, Monthly) with \*\*price, description, CTA buttons, and FAQs\*\*  
 
-Kitchen Browse Screen → Search bar, filters (Veg/Non-Veg/Both), sort by options, and kitchen cards with descriptions and "View Plans" CTA
 
 
+---
 
-Subscription Screen → Kitchen details, meal plan cards (Daily, Weekly, Monthly) with price, description, CTA buttons, and FAQs
 
 
+\## 🎨 Design System
 
-🎨 Design System
 
 
+\###Colors:  
 
-Colors:
+&nbsp; - Primary / Brand → #FF6B35 (warm orange)  
 
+&nbsp; - Accent → #2D9CDB (blue)  
 
+&nbsp; - Background → #D4BCBC  
 
-Primary / Brand: #FF6B35 (warm orange)
+&nbsp; - Text → Inter / Poppins / Crimson Text  
 
 
 
-Accent: #2D9CDB (blue)
+\###Typography:  
 
+&nbsp; - Headlines → 20–24px  
 
+&nbsp; - Body → 14px  
 
-Background: #D4BCBC
+&nbsp; - Caption → 12px  
 
 
 
-Text: Inter / Poppins / Crimson Text
+\###Icons: Material Icons (Rounded)  
 
 
 
-Typography:
+\###Card Sizes:  
 
+&nbsp; - Categories → 110×70 px  
 
+&nbsp; - Dish Cards → 172×210 px  
 
-Headlines: 20–24px
+&nbsp; - Kitchen Cards → 315×111 px  
 
+&nbsp; - Subscription Plans → 296×124 px  
 
 
-Body: 14px
 
+---
 
 
-Caption: 12px
 
+\## 📱 Screens Included
 
 
-Icons: Material Icons (Rounded)
 
+1\. Splash Screen  
 
+2\. Login Page  
 
-Card Sizes:
+3\. Sign Up Page (with Terms \& Conditions)  
 
+4\. Home Page  
 
+5\. Kitchen Browse Page  
 
-Categories: 110×70 px
+6\. Subscription Detail Page  
 
 
 
-Dish Cards: 172×210 px
+---
 
 
 
-Kitchen Cards: 315×111 px
+\## 🌐 How It Works
 
 
 
-Subscription Plans: 296×124 px
+1\. User opens the app → splash screen shows the \*\*logo\*\*.  
 
+2\. Login/Sign Up → enter details \& agree to \*\*Terms \& Conditions\*\*.  
 
+3\. Home → browse food categories \& dishes.  
 
-📱 Screens Included
+4\. Kitchen Browse → search, filter \& explore kitchens.  
 
+5\. Subscription → view meal plans, select one, and \*\*Subscribe/Order Once\*\*.  
 
 
-Splash Screen
 
+---
 
 
-Login Page
 
+\## 📂 Project Files
 
 
-Sign Up Page (with Terms \& Conditions)
 
+\- \*\*Figma Project Link:\*\* \[View Figma Project](https://www.figma.com/design/4VenXD6XzAFcV2vtOSKf8V/TiffinBuddy?node-id=3-58\&t=BeMvNFHZCCy7EzZ7-1)  
 
+\- \*\*Screenshots (PNG):\*\* Added in this repo  
 
-Home Page
+\- \*\*Design Summary (PDF):\*\* \[View summary]
 
+(https://github.com/Rohini363/TiffinBuddy-food-app/blob/main/ProjectSummary.pdf)
 
+\- \*\*.fig File (Editable Figma Export):\*\* \[View editable fig file](https://github.com/Rohini363/TiffinBuddy-food-app/blob/main/TiffinBuddy.fig)  
 
-Kitchen Browse Page
 
 
+---
 
-Subscription Detail Page
 
 
+\## ✅ How to Open the Project
 
-🌐 How It Works
 
 
+1\. Download the `.fig` file.  
 
-User opens the app → splash screen shows the logo.
+2\. Open \*\*Figma\*\* → `File → Import` → select the `.fig` file.  
 
+3\. Explore all pages: \*\*Design System, Wireframes, High-Fidelity, Prototype\*\*.  
 
 
-Login/Sign Up → enter details \& agree to Terms \& Conditions.
 
+---
 
 
-Home → browse food categories \& dishes.
 
+\## 💡 Future Enhancements
 
 
-Kitchen Browse → search, filter \& explore kitchens.
 
+\- Add \*\*dark mode variant\*\*  
 
+\- Add \*\*loading \& error states\*\*  
 
-Subscription → view meal plans, select one, and Subscribe/Order Once.
+\- Create \*\*micro-interactions\*\* (chip toggle, plan selection)  
 
+\- Build \*\*prototype animations\*\* (slide transitions)  
 
 
-📂 Project Files
 
+---
 
 
-Figma Project Link: https://www.figma.com/design/4VenXD6XzAFcV2vtOSKf8V/TiffinBuddy?node-id=3-58\&t=BeMvNFHZCCy7EzZ7-1
 
+\## 🙌 Credits
 
 
-Screenshots (PNG) → Added in this repo
 
+\- Fonts → Inter, Poppins, Crimson Text  
 
+\- Icons → Material Icons (Rounded)  
 
-Design Summary (PDF) → Added in this repo
+\- Images → Unsplash (placeholders for food photos)  
 
 
 
-.fig File (Editable Figma Export): TiffinBuddy\_Assignment.fig
+---
 
 
 
-✅ How to Open the Project
+\## 👩‍💻 Author
 
 
 
-Download the .fig file.
+Developed by \*\*Rohini Pandurang Bagal\*\*  
 
+\- 🌐 GitHub: \[Check Git Repo](https://github.com/Rohini363/TiffinBuddy-food-app)  
 
+\- 📧 Email: bagalrohini363@gmail.com  
 
-Open Figma → File → Import → Select the .fig file.
 
 
-
-Explore all pages: Design System, Wireframes, High-Fidelity, Prototype.
-
-
-
-🙌 Credits
-
-
-
-Fonts: Inter, Poppins, Crimson Text
-
-
-
-Icons: Material Icons (Rounded)
-
-
-
-Images: Unsplash (placeholders for food photos)
-
-
-
-👩‍💻 Author
-
-
-
-Rohini Pandurang Bagal
-
-
-
-🌐 GitHub: Rohini363
-
-
-
-📧 Email: \[bagalrohini363@gmail.com
-
-]
-
-
-
-💼 LinkedIn: \[Your LinkedIn Profile]
-
-
-
-✨ Thank you for checking out TiffinBuddy UI/UX Project!
-
-
-
-
+\*\*✨ Thank you for checking out TiffinBuddy UI/UX Project!\*\*
 
 
 
