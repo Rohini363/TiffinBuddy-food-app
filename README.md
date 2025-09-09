@@ -20,11 +20,11 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 - **Login & Sign Up** → Minimal forms with email & password fields, welcoming message, and **Terms & Conditions** checkbox  
 
-\- \*\*Home Screen\*\* → Food categories (Burgers, Pizza, Noodles) and dish cards with \*\*image, name, price \& rating\*\*  
+- **Home Screen** → Food categories (Burgers, Pizza, Noodles) and dish cards with **image, name, price & rating**  
 
-\- \*\*Kitchen Browse Screen\*\* → Search bar, filters (Veg/Non-Veg/Both), sort by options, and kitchen cards with descriptions + \*\*“View Plans” CTA\*\*  
+- **Kitchen Browse Screen** → Search bar, filters (Veg/Non-Veg/Both), sort by options, and kitchen cards with descriptions + **“View Plans” CTA**  
 
-\- \*\*Subscription Screen\*\* → Kitchen details, meal plan cards (Daily, Weekly, Monthly) with \*\*price, description, CTA buttons, and FAQs\*\*  
+- **Subscription Screen** → Kitchen details, meal plan cards (Daily, Weekly, Monthly) with **price, description, CTA buttons, and FAQs**  
 
 
 
@@ -32,13 +32,13 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 
 
-\## 🎨 Design System
+## 🎨 Design System
 
 
 
-\###Colors:  
+###Colors:  
 
-&nbsp; - Primary / Brand → #FF6B35 (warm orange)  
+- Primary / Brand → #FF6B35 (warm orange)  
 
 &nbsp; - Accent → #2D9CDB (blue)  
 
