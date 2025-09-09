@@ -2,7 +2,7 @@
 
 
 
-A modern **food subscription app concept ** designed in **Figma**, showcasing sleek UI design, reusable components, and smooth user flows.  
+A modern **food subscription app** concept designed in **Figma**, showcasing sleek UI design, reusable components, and smooth user flows.  
 
 The project demonstrates clear navigation from onboarding to browsing kitchens and subscribing to meal plans.
 
