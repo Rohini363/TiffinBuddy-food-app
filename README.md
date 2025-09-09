@@ -128,9 +128,7 @@ The project demonstrates clear navigation from onboarding to browsing kitchens a
 
 - **Screenshots (PNG):** Added in this repo  
 
-- **Design Summary (PDF):** [View summary]
-
-(https://github.com/Rohini363/TiffinBuddy-food-app/blob/main/ProjectSummary.pdf)
+- **Design Summary (PDF):** [View summary](https://github.com/Rohini363/TiffinBuddy-food-app/blob/main/ProjectSummary.pdf)
 
 - **.fig File (Editable Figma Export):** [View editable fig file](https://github.com/Rohini363/TiffinBuddy-food-app/blob/main/TiffinBuddy.fig)  
 
